@@ -3,6 +3,7 @@ Description: Divided by a line are two players. Each of them are trying to win o
 
 Changes being tested:
 Big blocks removed for performance and screen clarity.
+Replaced with smaller blocks and powerups.
 
 
 Public Link:
