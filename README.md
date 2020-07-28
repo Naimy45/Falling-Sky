@@ -9,6 +9,7 @@ Decrease lag:
 Increase speed for blocks every min. |
 Double jump? |
 Proper jump arc? |
+Add new loading screen |
 
 
 
